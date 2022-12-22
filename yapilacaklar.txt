@@ -1,0 +1,4 @@
+
+DUZELT !
+kayitli olmayan kullanici rastgele bir bilgi ile giris yaptiginda hatali kullanici hatasi veriyor,
+ikinici defa girdiginde ise : hataERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client hatasi aliniyor.
